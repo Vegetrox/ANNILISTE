@@ -145,7 +145,7 @@ function handleGiftClick(giftId, source) {
   console.log(`[Clic ${source}] Cadeau #${giftId} : ${gift.name}`);
 
   // Exemple : petit feedback visuel
-  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\ndébit de votre CB 26** **** **** **89 Jérémy vous en sera éternellement reconnaissant.\n(Virement bancaire accepté, cryptos aussi.)`);
+  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\nDébit de votre CB 26** **** **** **89 Jérémy vous en sera éternellement reconnaissant.\nmercie vous pouvez choisir un autre cadeau`);
 }
 
 // ---- SCROLL REVEAL ----
