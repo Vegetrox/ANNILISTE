@@ -12,7 +12,7 @@ const gifts = [
     desc: "Une bouteille d'exception vieillie 21 ans dans les Highlands, à savourer sur place, dans un château écossais au coin du feu. Le kilt est fourni. Les moutons dans le pré, non.",
     price: "18 500 €",
     priceNote: "Vol aller-retour et kilt en supplément",
-    image: "pictures/Fine Aged Whiskey.png",
+    image: "images/Fine Aged Whiskey.png",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const gifts = [
     desc: "Modèle iconique, tirage limité, numéro de série gravé à la main. Le genre de guitare qui reste dans sa boîte en verre mais dont on parle à chaque dîner. Cordes d'origine non incluses — elles font partie de l'œuvre.",
     price: "42 000 €",
     priceNote: "Certificat d'authenticité & boîte en verre non inclus",
-    image: "pictures/Luxury Electric Guitar.png",
+    image: "images/Luxury Electric Guitar.png",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const gifts = [
     desc: "Fûts en érable canadien, cymbales Zildjian série A Custom, hardware chromé. Idéale pour réveiller les voisins à 7h du matin un dimanche. Ils comprendront — c'est de l'art.",
     price: "28 000 €",
     priceNote: "Voisins compréhensifs non garantis",
-    image: "pictures/Luxury Acoustic Drum Kit.png",
+    image: "images/Luxury Acoustic Drum Kit.png",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const gifts = [
     desc: "Trois exemplaires dans le monde. Portées par Sa Majesté Jordan lors d'un match dont vous pourrez inventer les détails librement. Taille unique : celle de Jordan. Semelle intérieure authentiquement transpiée.",
     price: "350 000 €",
     priceNote: "Odeur d'origine préservée sous vide",
-    image: "pictures/High-End Nike Sneakers.png",
+    image: "images/High-End Nike Sneakers.png",
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const gifts = [
     desc: "Mouvement squelette serti de 212 diamants VVS1, bracelet en argent blanc massif. Se remonte à la main car les batteries, c'est pour les gens ordinaires. Étanche à 30 m — pour les riches qui nagent sobrement.",
     price: "890 000 €",
     priceNote: "Assurance mensuelle : votre salaire annuel",
-    image: "pictures/Luxury Chronograph Watch.png",
+    image: "images/Luxury Chronograph Watch.png",
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const gifts = [
     desc: "Fait le ménage, effectue des calculs complexes, réalise la vidange de la voiture, prépare le café et répond aux messages d'anniversaire ennuyeux à votre place. Disponible en noir mat ou blanc laqué. Parle couramment français avec accent de Kyoto.",
     price: "1 200 000 €",
     priceNote: "Mise à jour logicielle annuelle : 40 000 €",
-    image: "pictures/Japanese Female Robot.png,
+    image: "images/Japanese Female Robot.png,
   },
   {
     id: 7,
@@ -66,7 +66,7 @@ const gifts = [
     desc: "Carrosserie noire obsidienne, jantes forgées 22 pouces, 0 à 100 km/h en 2,8 secondes. Idéale pour aller chercher le pain. Le boulanger sera impressionné. Climatisation incluse pour ne pas transpirer en arrivant.",
     price: "680 000 €",
     priceNote: "PV de stationnement à prévoir dans le budget",
-    image: "pictures/Luxury Sports Car.png",
+    image: "images/Luxury Sports Car.png",
   },
   {
     id: 8,
@@ -75,7 +75,7 @@ const gifts = [
     desc: "Réduction de bruit active sur 47 niveaux, autonomie 80h, cuir Nappa, finitions chromées. Le genre de casque qui dit « je ne veux parler à personne » avec beaucoup d'élégance. Compatible avec tous les appareils sauf les vieux.",
     price: "4 800 €",
     priceNote: "L'objet le plus abordable de cette liste — honteux.",
-    image: "pictures/Premium Noise-Cancelling Headphones.png",
+    image: "images/Premium Noise-Cancelling Headphones.png",
   },
 ];
 
