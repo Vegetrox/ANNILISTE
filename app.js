@@ -57,7 +57,7 @@ const gifts = [
     desc: "Fait le ménage, effectue des calculs complexes, réalise la vidange de la voiture, prépare le café et répond aux messages d'anniversaire ennuyeux à votre place. Disponible en noir mat ou blanc laqué. Parle couramment français avec accent de Kyoto.",
     price: "1 200 000 €",
     priceNote: "Mise à jour logicielle annuelle : 40 000 €",
-    image: "images/Japanese Female Robot.png,
+    image: "images/Japanese Female Robot.png",
   },
   {
     id: 7,
