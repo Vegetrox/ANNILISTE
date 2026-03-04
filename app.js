@@ -1,5 +1,5 @@
 // =============================================
-//  LISTE D'ANNIVERSAIRE DE JÉRÉMIE — app.js
+//  LISTE D'ANNIVERSAIRE DE JÉRÉMY — app.js
 //  Ajouter / modifier les cadeaux ici.
 //  Les images sont dans le dossier ./pictures/
 // =============================================
