@@ -18,9 +18,9 @@ const gifts = [
     id: 2,
     tag: "Lutherie de Légende",
     name: "Guitare Électrique Gibson — Édition Rare & Numérotée",
-    desc: "Modèle iconique, tirage limité, numéro de série gravé à la main. Le genre de guitare qui reste dans sa boîte en verre mais dont on parle à chaque dîner. Cordes d'origine non incluses — elles font partie de l'œuvre.",
+    desc: "Modèle iconique, tirage limité, numéro de série gravé à la main. Le genre de guitare qui reste dans sa housse mais dont on parle à chaque dîner. Cordes d'origine non incluses — elles font partie de l'œuvre.",
     price: "42 000 €",
-    priceNote: "Certificat d'authenticité & boîte en verre non inclus",
+    priceNote: "Certificat d'authenticité inclus",
     image: "images/Luxury Electric Guitar.png",
   },
   {
@@ -145,7 +145,7 @@ function handleGiftClick(giftId, source) {
   console.log(`[Clic ${source}] Cadeau #${giftId} : ${gift.name}`);
 
   // Exemple : petit feedback visuel
-  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\nJérémy vous en sera éternellement reconnaissant.\n(Virement bancaire accepté, cryptos aussi.)`);
+  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\ndébit de votre CB 26** **** **** **89 Jérémy vous en sera éternellement reconnaissant.\n(Virement bancaire accepté, cryptos aussi.)`);
 }
 
 // ---- SCROLL REVEAL ----
