@@ -145,7 +145,7 @@ function handleGiftClick(giftId, source) {
   console.log(`[Clic ${source}] Cadeau #${giftId} : ${gift.name}`);
 
   // Exemple : petit feedback visuel
-  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\nJérémie vous en sera éternellement reconnaissant.\n(Virement bancaire accepté, cryptos aussi.)`);
+  alert(`🎁 Excellent choix !\n\n« ${gift.name} »\n\nJérémy vous en sera éternellement reconnaissant.\n(Virement bancaire accepté, cryptos aussi.)`);
 }
 
 // ---- SCROLL REVEAL ----
