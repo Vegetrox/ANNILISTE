@@ -12,7 +12,7 @@ const gifts = [
     desc: "Une bouteille d'exception vieillie 21 ans dans les Highlands, à savourer sur place, dans un château écossais au coin du feu. Le kilt est fourni. Les moutons dans le pré, non.",
     price: "18 500 €",
     priceNote: "Vol aller-retour et kilt en supplément",
-    image: "Fine Aged Whiskey.png",
+    image: "pictures/Fine Aged Whiskey.png",
   },
   {
     id: 2,
